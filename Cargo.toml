@@ -1,0 +1,6 @@
+[package]
+name = "hypercubedb-safety-sim"
+version = "0.1.0"
+edition = "2021"
+
+# No external Rust dependencies: offline reproducible generation.

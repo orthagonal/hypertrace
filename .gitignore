@@ -1,0 +1,5 @@
+/target/
+/data/*.bin
+!/data/fixture.bin
+*.exe
+/profiles/
