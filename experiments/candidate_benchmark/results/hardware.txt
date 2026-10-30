@@ -1,0 +1,13 @@
+name, driver_version, memory.total [MiB], compute_cap
+NVIDIA GeForce RTX 2060 SUPER, 610.88, 8192 MiB, 7.5
+
+3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]
+CPU: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz
+MSVC tools: 14.51.36231
+Build flags: nvcc -O3 -std=c++17 -arch=sm_75; cl /O2 /EHsc /std:c++17
+Benchmark executable SHA256: 24F43039ED905E3D1BE59BDC738C01EAC3593125142C3B444CF8F5C0159792F6
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2026 NVIDIA Corporation
+Built on Sun_Sep_01_02:23:07_Pacific_Standard_Time_2026
+Cuda compilation tools, release 13.4, V13.4.92
+Build cuda_13.4.r13.4/compiler.38855100_0

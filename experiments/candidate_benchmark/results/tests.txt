@@ -1,0 +1,7 @@
+Existing v0/v1/v2/v3 and new candidate tests, run on RTX 2060 SUPER.
+PASS: all 112 collection checkpoints present; all observed histories distinct within each gallery/query corpus; galleries nested byte-for-byte; frozen source hashes and 62 prior files unchanged.
+cpu_gpu_fingerprints_checked: 268800
+cpu_gpu_scores_checked: 265216
+cpu_gpu_ranks_checked: 14336
+PASS: report performance/memory rows, complete strategy/budget matrix, recall denominator and limitations
+PASS: PowerShell runner syntax
